@@ -1,0 +1,7 @@
+{
+    "generateAnswerURI":"https://cdarade-qna-maker.cognitiveservices.azure.com/qnamaker/v5.0-preview.1/knowledgebases/86372188-5bf7-40b2-a139-9a308e4570b2/generateAnswer",
+    "generateMetadataURI":"https://cdarade-qna-maker.cognitiveservices.azure.com/qnamaker/v5.0-preview.1/knowledgebases/86372188-5bf7-40b2-a139-9a308e4570b2/",
+    "listAllURI": "https://cdarade-qna-maker.cognitiveservices.azure.com/qnamaker/v5.0-preview.1/knowledgebases",
+    "downloadKBURI": "https://cdarade-qna-maker.cognitiveservices.azure.com/qnamaker/v5.0-preview.1/knowledgebases/86372188-5bf7-40b2-a139-9a308e4570b2/Test/qna",
+    "Subscription-Key":"42c0334f3eb24e66ae5df8d135c6a676"
+}
