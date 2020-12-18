@@ -107,7 +107,7 @@ app.post("/getanswer", function(req, res, next) {
  *          400:
  *              description: Bad request (Api request URL is invalid i.e. Knowledge base not found or Resource not found)
  *          500:
- *              description: Server error (e.g. Connection loss or server side technical glitch)
+ *              description: Server error (e.g. Incorrect host name or Connection loss or server side technical glitch)
  */
 
 app.get("/getmetadata", function(req, res, next) {
